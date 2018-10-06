@@ -5,6 +5,7 @@ public class Test
         System.out.println("Test1");
         int a=10;
         System.out.println(a);
+<<<<<<< HEAD
         int b=20;
         System.out.println(b);
         int c=20;
@@ -12,5 +13,8 @@ public class Test
         System.out.println(c);
 
 
+=======
+       
+>>>>>>> e5c65cd1c64e9723553f4ba6fc329781752318ed
     }
 }
