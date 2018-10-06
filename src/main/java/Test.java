@@ -9,5 +9,6 @@ public class Test
     public static void def()
     {
         int a;
+        int b;
     }
 }
