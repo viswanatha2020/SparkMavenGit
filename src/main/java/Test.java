@@ -7,8 +7,10 @@ public class Test
         System.out.println(a);
         int b=20;
         System.out.println(b);
-        int b=20;
-        System.out.println(b);
+        int c=20;
+        System.out.println(c);
+        System.out.println(c);
+
 
     }
 }
