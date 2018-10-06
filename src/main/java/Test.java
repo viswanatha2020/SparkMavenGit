@@ -5,4 +5,9 @@ public class Test
         System.out.println("Test1");
 
     }
+
+    public static void def()
+    {
+        int a;
+    }
 }
